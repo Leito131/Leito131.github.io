@@ -81,12 +81,7 @@ textarea {
 section label{
 color:white;
 }
-
-.join {
-padding-top: 10px;
-padding-bottom: 10px;
-background-color: black;
-}	
+	
 
 #boton-enviar {
   background-color: grey;
