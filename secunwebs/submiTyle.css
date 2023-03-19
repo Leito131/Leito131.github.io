@@ -82,6 +82,11 @@ section label{
 color:white;
 }
 
+.join {
+padding-top: 10px;
+padding-bottom: 10px;
+	
+}	
 
 #boton-enviar {
   background-color: grey;
